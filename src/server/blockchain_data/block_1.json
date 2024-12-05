@@ -1,0 +1,14 @@
+{
+    "index": 1,
+    "timestamp": "2024-11-25 01:05:23",
+    "data": [
+        {
+            "user_id": "1",
+            "operation_type": "buy",
+            "stock_name": "AAPL"
+        }
+    ],
+    "previous_hash": "770e6747d3a1597b18d2a5562a8eb9a734c16883c244eea64d11ee2298933e28",
+    "proof": 35293,
+    "hash": "daedb9a88e8bb3bb366cd5429de50506d1d710a727ae87a18b647100cc1770b3"
+}
